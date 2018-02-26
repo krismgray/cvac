@@ -1,0 +1,93 @@
+.content1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url('./images/rand1.png');
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+.title1 {
+  font-size: 80px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content2 {
+  background-color: #1E7575;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.address {
+  font-size: 28px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.content4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  height: 40vh;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  height: 100px;
+  background-color: #FF8989;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.footnote2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.col1 {
+  background-color: #DD5757;
+}
+
+.colimage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content3 {
+  padding-left: 15px;
+}
+
+.colword {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ourmish {
+  font-size: 45px;
+  font-weight: bold;
+}

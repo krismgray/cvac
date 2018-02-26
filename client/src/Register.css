@@ -1,0 +1,16 @@
+.form {
+  display: inline-block;
+  text-align: left;
+  width: 80%;
+}
+
+.formWrap {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}

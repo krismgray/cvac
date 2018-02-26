@@ -1,0 +1,35 @@
+.footnote {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+
+.footer {
+  height: 100px;
+  background-color: #FF8989;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: flex-end;
+  justify-content: center;
+}
+
+.bodyCalendar {
+  background-color: #499595;
+  background-size: cover;
+}
+
+.scheduleTitle {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.calendar {
+
+}

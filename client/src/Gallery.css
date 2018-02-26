@@ -1,0 +1,38 @@
+.footnote1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.footer {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.row1 {
+  display: inline;
+}
+
+.pics {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
+
+.galStyle {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.gal {
+  background-image: url('./images/paint3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
