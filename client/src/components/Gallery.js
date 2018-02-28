@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom';
 import { ImageButton } from '../Pics.style.js'
 import Zoomy from 'react-zoomy';
 
+
 class Gallery extends React.Component {
 
 
