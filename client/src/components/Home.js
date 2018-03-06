@@ -52,13 +52,6 @@ class Home extends React.Component {
             Develop confidence, Learn Teamwork, and enhance skills.
               </h1>
         </div>
-        <div className="box5">
-          <Grid colums={2}>
-            <Grid.Column className="column1">
-
-            </Grid.Column>
-          </Grid>
-        </div>
         <div className='footer'>
           <a href="https://www.facebook.com/cvacsopa/">
             <Icon color='black' name='facebook square' size='huge' />
@@ -70,9 +63,9 @@ class Home extends React.Component {
             <p>All Rights Reserved</p>
           </div>
           <div className='footnote2'>
-            <Link to="/ContactUs">
+            <a href="mailto:henderson.gray.inc@gmail.com">
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
       </div>

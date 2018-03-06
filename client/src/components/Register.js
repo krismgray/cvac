@@ -82,9 +82,9 @@ class AboutUs extends React.Component{
             <p>All Rights Reserved</p>
           </div>
           <div className='footnote2'>
-            <Link to="/ContactUs">
+            <a href="mailto:henderson.gray.inc@gmail.com">
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
         </Segment>

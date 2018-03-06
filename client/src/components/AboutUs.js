@@ -51,9 +51,9 @@ class AboutUs extends React.Component {
         <div className='content4'>
             <p>Contact us today to learn more or come in and check us out!</p>
           <div className='contact'>
-            <Link to="/ContactUs">
+            <a href="mailto:kris.m.gray@gmail.com">
               <Button primary size='large'>Contact Us!</Button>
-            </Link>
+            </a>
           </div>
         </div>
         <div className='footer'>
@@ -67,9 +67,9 @@ class AboutUs extends React.Component {
             <p>All Rights Reserved</p>
           </div>
           <div className='footnote2'>
-            <Link to="/ContactUs">
+            <a href="mailto:henderson.gray.inc@gmail.com">
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
       </div>

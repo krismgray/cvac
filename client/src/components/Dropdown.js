@@ -24,6 +24,11 @@ class Dropdown extends React.Component{
                 About Us
               </Menu.Item>
             </Link>
+            <Link to="/Gallery">
+              <Menu.Item name='Gallery'>
+                Gallery
+              </Menu.Item>
+            </Link>
             <Link to='Register'>
               <Menu.Item name='register'>
                 Register
