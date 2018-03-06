@@ -56,6 +56,9 @@ class Gallery extends React.Component {
         <div>
           <Dropdown />
         </div>
+        <div className='explain'>
+          <p>Still Waiting on Pictures from Studio to finish Gallery</p>
+        </div>
         <div className='galStyle'>
           <br />
           <ImageGallery items={images} />

@@ -38,3 +38,9 @@
   height: 100vh;
   width: 100%;
 }
+
+.explain {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
